@@ -1,0 +1,10 @@
+C:\Users\opuga\source\repos\TonyWinter\Test\ModernIt\ModernIt\bin\Debug\netcoreapp3.0\ModernIt.exe
+C:\Users\opuga\source\repos\TonyWinter\Test\ModernIt\ModernIt\bin\Debug\netcoreapp3.0\ModernIt.deps.json
+C:\Users\opuga\source\repos\TonyWinter\Test\ModernIt\ModernIt\bin\Debug\netcoreapp3.0\ModernIt.runtimeconfig.json
+C:\Users\opuga\source\repos\TonyWinter\Test\ModernIt\ModernIt\bin\Debug\netcoreapp3.0\ModernIt.runtimeconfig.dev.json
+C:\Users\opuga\source\repos\TonyWinter\Test\ModernIt\ModernIt\bin\Debug\netcoreapp3.0\ModernIt.dll
+C:\Users\opuga\source\repos\TonyWinter\Test\ModernIt\ModernIt\bin\Debug\netcoreapp3.0\ModernIt.pdb
+C:\Users\opuga\source\repos\TonyWinter\Test\ModernIt\ModernIt\obj\Debug\netcoreapp3.0\ModernIt.AssemblyInfoInputs.cache
+C:\Users\opuga\source\repos\TonyWinter\Test\ModernIt\ModernIt\obj\Debug\netcoreapp3.0\ModernIt.AssemblyInfo.vb
+C:\Users\opuga\source\repos\TonyWinter\Test\ModernIt\ModernIt\obj\Debug\netcoreapp3.0\ModernIt.dll
+C:\Users\opuga\source\repos\TonyWinter\Test\ModernIt\ModernIt\obj\Debug\netcoreapp3.0\ModernIt.pdb
