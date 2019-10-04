@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\opuga\\source\\repos\\TonyWinter\\Test\\ModernIt\\ModernIt\\ModernIt.vbproj": {}
+    "C:\\Users\\opuga\\Source\\Repos\\TonyWinter\\Test\\ModernIt\\ModernIt\\ModernIt.vbproj": {}
   },
   "projects": {
-    "C:\\Users\\opuga\\source\\repos\\TonyWinter\\Test\\ModernIt\\ModernIt\\ModernIt.vbproj": {
+    "C:\\Users\\opuga\\Source\\Repos\\TonyWinter\\Test\\ModernIt\\ModernIt\\ModernIt.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\opuga\\source\\repos\\TonyWinter\\Test\\ModernIt\\ModernIt\\ModernIt.vbproj",
+        "projectUniqueName": "C:\\Users\\opuga\\Source\\Repos\\TonyWinter\\Test\\ModernIt\\ModernIt\\ModernIt.vbproj",
         "projectName": "ModernIt",
-        "projectPath": "C:\\Users\\opuga\\source\\repos\\TonyWinter\\Test\\ModernIt\\ModernIt\\ModernIt.vbproj",
+        "projectPath": "C:\\Users\\opuga\\Source\\Repos\\TonyWinter\\Test\\ModernIt\\ModernIt\\ModernIt.vbproj",
         "packagesPath": "C:\\Users\\opuga\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\opuga\\source\\repos\\TonyWinter\\Test\\ModernIt\\ModernIt\\obj\\",
+        "outputPath": "C:\\Users\\opuga\\Source\\Repos\\TonyWinter\\Test\\ModernIt\\ModernIt\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\opuga\\AppData\\Roaming\\NuGet\\NuGet.Config",
